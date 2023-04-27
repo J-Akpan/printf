@@ -34,7 +34,7 @@ The header file is main.h.
 
 format take a mandatory arguments and an extra number of argument can be none or many.
 
-Format of string
+##### Format of string
 
 format string is charcter string that start and end with double quotes. The format string is composed of zero or more directive; ordinary charcters(not %),, and conversion specifications.
 
@@ -48,7 +48,7 @@ Each conversion specification is introduced by the character % and ends with a c
 
     An optional length modifier
 
-The flag characters
+###### The flag characters
 
 The character % may be followed by zero or more of the following flags:
 
@@ -349,7 +349,7 @@ Output:
 
 %
 
-Submitted by
+SUBMITTED by
 
     Joseph Akpan  <J-Apkan>
     Abdulazeez Buhari  <AbdulTechX>
